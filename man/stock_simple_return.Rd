@@ -10,5 +10,5 @@ stock_simple_return(x)
 \item{x}{Desription of argument}
 }
 \description{
-Plot the highest, the lowest and the adjusted price of the stock and give a simple stock return.
+Plot the open, the close and the adjusted price of the stock and give a simple stock return.
 }

@@ -6,6 +6,8 @@
 
 #' @return NULL
 
+#' @import utils
+
 #' @export stock_simple_return
 
 stock_simple_return<-function(x)
