@@ -1,4 +1,5 @@
 dseprojectS
+
 There is only one function in this package. Running function "Stock_simple_return()", you can get the plot of the open, the close and the adjusted price of the stock you enter and a simple stock return of lastest date. The function runs slowly. Please wait with a bit patience.
 
 Installation
