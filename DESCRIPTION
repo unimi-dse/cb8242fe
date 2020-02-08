@@ -1,0 +1,17 @@
+Package: dseprojectS
+Type: Package
+Title: Plot and Simple return
+Version: 0.1.0
+Author: JUNQIAN ZHANG
+Maintainer: JUNQIAN ZHANG <zhangjunqian0611@163.com>
+Description: Plot the open, the close and the adjusted price of the stock and give a simple stock return.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.1.0)
+Imports: quantmod, xts, zoo, ggplot2
+RoxygenNote: 7.0.2
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
