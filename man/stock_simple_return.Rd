@@ -4,10 +4,10 @@
 \alias{stock_simple_return}
 \title{Plot and Simpe return}
 \usage{
-stock_simple_return(x)
+stock_simple_return(symbol)
 }
 \arguments{
-\item{x}{Desription of argument}
+\item{symbol}{NULL}
 }
 \description{
 Plot the open, the close and the adjusted price of the stock and give a simple stock return.
