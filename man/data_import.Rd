@@ -9,6 +9,9 @@ data_import(x)
 \arguments{
 \item{x}{Symbol of stock}
 }
+\value{
+price data of the chosen stock
+}
 \description{
 Get data from the package
 }

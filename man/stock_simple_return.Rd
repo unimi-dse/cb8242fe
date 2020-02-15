@@ -9,6 +9,9 @@ stock_simple_return(x)
 \arguments{
 \item{x}{Symbol of stock}
 }
+\value{
+stock return rate of the latest date
+}
 \description{
 Plot the open, the close and the adjusted price of the stock and give a simple stock return.
 }

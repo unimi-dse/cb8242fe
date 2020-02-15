@@ -6,6 +6,8 @@
 
 #' @import utils
 
+#' @return price data of the chosen stock
+
 #' @export data_import
 
 data_import<-function(x)
@@ -35,6 +37,8 @@ data_import<-function(x)
 
 #' @import utils
 
+#' @return stock return rate of the latest date
+
 #' @export stock_simple_return
 
 stock_simple_return<-function(x)
@@ -61,6 +65,8 @@ stock_simple_return<-function(x)
 #' @param x Symbol of stock
 
 #' @import utils
+
+#' @return plot of the chosen stock
 
 #' @export stock_plot_return
 

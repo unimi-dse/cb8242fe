@@ -9,6 +9,9 @@ stock_plot_return(x)
 \arguments{
 \item{x}{Symbol of stock}
 }
+\value{
+plot of the chosen stock
+}
 \description{
 Plot the open, the close and the adjusted price of the stock and give a simple stock return.
 }
