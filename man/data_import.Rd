@@ -2,7 +2,7 @@
 % Please edit documentation in R/sharperatio.R
 \name{data_import}
 \alias{data_import}
-\title{Plot and Simpe return}
+\title{Price data of the stock}
 \usage{
 data_import(x)
 }
@@ -10,7 +10,7 @@ data_import(x)
 \item{x}{Symbol of stock}
 }
 \value{
-price data of the chosen stock
+price data of the stock
 }
 \description{
 Get data from the package

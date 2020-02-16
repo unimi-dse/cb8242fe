@@ -2,7 +2,7 @@
 % Please edit documentation in R/sharperatio.R
 \name{stock_plot_return}
 \alias{stock_plot_return}
-\title{Plot and Simpe return}
+\title{Plot of the stock}
 \usage{
 stock_plot_return(x)
 }
@@ -10,8 +10,8 @@ stock_plot_return(x)
 \item{x}{Symbol of stock}
 }
 \value{
-plot of the chosen stock
+plot of the stock
 }
 \description{
-Plot the open, the close and the adjusted price of the stock and give a simple stock return.
+Plot the open, the close and the adjusted price of the stock
 }

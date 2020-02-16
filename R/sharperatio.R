@@ -1,4 +1,4 @@
-#' @title Plot and Simpe return
+#' @title Price data of the stock
 
 #' @description Get data from the package
 
@@ -29,9 +29,9 @@ data_import<-function(x)
 
 }
 
-#' @title Plot and Simpe return
+#' @title Simple return of the stock
 
-#' @description Plot the open, the close and the adjusted price of the stock and give a simple stock return.
+#' @description Calculate the simple return of the stock
 
 #' @param x Symbol of stock
 
@@ -56,7 +56,7 @@ stock_simple_return<-function(x)
 
 }
 
-#' @title Sharpe Ratio of selected stock
+#' @title Sharpe Ratio of the stock
 
 #' @description Calculate the Sharpe Ratio of selected stock
 
@@ -81,15 +81,15 @@ sharpe_ratio <- function(x)
 }
 
 
-#' @title Plot and Simpe return
+#' @title Plot of the stock
 
-#' @description Plot the open, the close and the adjusted price of the stock and give a simple stock return.
+#' @description Plot the open, the close and the adjusted price of the stock
 
 #' @param x Symbol of stock
 
 #' @import utils
 
-#' @return plot of the  stock
+#' @return plot of the stock
 
 #' @export stock_plot_return
 

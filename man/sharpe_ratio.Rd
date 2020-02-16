@@ -2,7 +2,7 @@
 % Please edit documentation in R/sharperatio.R
 \name{sharpe_ratio}
 \alias{sharpe_ratio}
-\title{Sharpe Ratio of selected stock}
+\title{Sharpe Ratio of the stock}
 \usage{
 sharpe_ratio(x)
 }
@@ -10,7 +10,7 @@ sharpe_ratio(x)
 \item{x}{Symbol of stock}
 }
 \value{
-stock return rate of the latest date
+Sharpe ratio of the stock
 }
 \description{
 Calculate the Sharpe Ratio of selected stock
