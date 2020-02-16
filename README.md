@@ -8,6 +8,7 @@ This package is only for practice. There are two functions in it. One is for plo
 Installation
 ------------
 ```R
+devtools::install_github('unimi-dse/cb8242fe')
 require(sharperatio)
 ```
 
