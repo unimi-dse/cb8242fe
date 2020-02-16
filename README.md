@@ -1,4 +1,4 @@
-Readme of dseprojectS
+Readme of sharperatio
 =====================
 
 Introduction
