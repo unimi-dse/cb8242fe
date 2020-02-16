@@ -1,10 +1,10 @@
-Package: dseprojectS
+Package: sharperatio
 Type: Package
 Title: Plot and Simple return
 Version: 0.1.0
 Author: JUNQIAN ZHANG
 Maintainer: JUNQIAN ZHANG <zhangjunqian0611@163.com>
-Description: Plot the open, the close and the adjusted price of the stock and give a simple stock return.
+Description: Plot the open, the close and the adjusted price of the stock and calculate Sharpe Ratio
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
