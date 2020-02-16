@@ -6,7 +6,7 @@
 
 #' @import utils
 
-#' @return price data of the chosen stock
+#' @return price data of the stock
 
 #' @export data_import
 
@@ -37,7 +37,7 @@ data_import<-function(x)
 
 #' @import utils
 
-#' @return stock return rate of the latest date
+#' @return stock return rate of the stock
 
 #' @export stock_simple_return
 
@@ -64,7 +64,7 @@ stock_simple_return<-function(x)
 
 #' @import stats
 
-#' @return stock return rate of the latest date
+#' @return Sharpe ratio of the stock
 
 #' @export sharpe_ratio
 sharpe_ratio <- function(x)
@@ -89,7 +89,7 @@ sharpe_ratio <- function(x)
 
 #' @import utils
 
-#' @return plot of the chosen stock
+#' @return plot of the  stock
 
 #' @export stock_plot_return
 
